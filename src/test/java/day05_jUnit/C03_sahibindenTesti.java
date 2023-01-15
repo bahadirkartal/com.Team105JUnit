@@ -65,22 +65,18 @@ public class C03_sahibindenTesti {
             if (ilanTarihi.isDisplayed()){
                 System.out.println("Test PASSED");
 
+                /*
+                echo "# com.Team105JUnit" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bahadirkartal/com.Team105JUnit.git
+git push -u origin main
+                 */
+
 
             }
-
-
-
-
-
-
-            //
-
-
-
-
-
-
-
 
         }
 
